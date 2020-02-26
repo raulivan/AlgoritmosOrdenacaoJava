@@ -1,4 +1,4 @@
-# AlgoritmosOrdenacaoJava
+# Algoritmos de Ordenação em Java
 Algorítimos de ordenação implementados em java. 
 
 Selection Sort;
